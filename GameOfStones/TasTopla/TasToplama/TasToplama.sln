@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasToplama", "TasToplama\TasToplama.csproj", "{0523FBB9-A9A7-4012-8DB4-E67EDDF1797E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0523FBB9-A9A7-4012-8DB4-E67EDDF1797E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0523FBB9-A9A7-4012-8DB4-E67EDDF1797E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0523FBB9-A9A7-4012-8DB4-E67EDDF1797E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0523FBB9-A9A7-4012-8DB4-E67EDDF1797E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B20C7D2C-BC34-4E5A-848A-73CB1BBF6CA6}
+	EndGlobalSection
+EndGlobal

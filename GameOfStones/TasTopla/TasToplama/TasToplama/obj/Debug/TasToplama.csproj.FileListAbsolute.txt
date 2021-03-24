@@ -1,0 +1,30 @@
+C:\Users\Omer Furkan\Desktop\TasTopla\TasToplama\TasToplama\bin\Debug\TasToplama.exe.config
+C:\Users\Omer Furkan\Desktop\TasTopla\TasToplama\TasToplama\bin\Debug\TasToplama.exe
+C:\Users\Omer Furkan\Desktop\TasTopla\TasToplama\TasToplama\bin\Debug\TasToplama.pdb
+C:\Users\Omer Furkan\Desktop\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.csprojAssemblyReference.cache
+C:\Users\Omer Furkan\Desktop\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.Form1.resources
+C:\Users\Omer Furkan\Desktop\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.Properties.Resources.resources
+C:\Users\Omer Furkan\Desktop\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.csproj.GenerateResource.cache
+C:\Users\Omer Furkan\Desktop\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.csproj.CoreCompileInputs.cache
+C:\Users\Omer Furkan\Desktop\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.exe
+C:\Users\Omer Furkan\Desktop\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.pdb
+D:\yazılım sınama yedek kod\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.csprojAssemblyReference.cache
+D:\yazılım sınama yedek kod\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.Form1.resources
+D:\yazılım sınama yedek kod\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.Properties.Resources.resources
+D:\yazılım sınama yedek kod\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.csproj.GenerateResource.cache
+D:\yazılım sınama yedek kod\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.csproj.CoreCompileInputs.cache
+D:\yazılım sınama yedek kod\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.exe
+D:\yazılım sınama yedek kod\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.pdb
+D:\yazılım sınama yedek kod\TasTopla\TasToplama\TasToplama\bin\Debug\TasToplama.exe.config
+D:\yazılım sınama yedek kod\TasTopla\TasToplama\TasToplama\bin\Debug\TasToplama.exe
+D:\yazılım sınama yedek kod\TasTopla\TasToplama\TasToplama\bin\Debug\TasToplama.pdb
+D:\Yedeklenecekler\Üni Dosyaları\3.sınıf ödevler\Yazılım Sınama Vize Ödevler\Yazılım Sınama Ödev 1\TasTopla\TasToplama\TasToplama\bin\Debug\TasToplama.exe.config
+D:\Yedeklenecekler\Üni Dosyaları\3.sınıf ödevler\Yazılım Sınama Vize Ödevler\Yazılım Sınama Ödev 1\TasTopla\TasToplama\TasToplama\bin\Debug\TasToplama.exe
+D:\Yedeklenecekler\Üni Dosyaları\3.sınıf ödevler\Yazılım Sınama Vize Ödevler\Yazılım Sınama Ödev 1\TasTopla\TasToplama\TasToplama\bin\Debug\TasToplama.pdb
+D:\Yedeklenecekler\Üni Dosyaları\3.sınıf ödevler\Yazılım Sınama Vize Ödevler\Yazılım Sınama Ödev 1\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.csprojAssemblyReference.cache
+D:\Yedeklenecekler\Üni Dosyaları\3.sınıf ödevler\Yazılım Sınama Vize Ödevler\Yazılım Sınama Ödev 1\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.Form1.resources
+D:\Yedeklenecekler\Üni Dosyaları\3.sınıf ödevler\Yazılım Sınama Vize Ödevler\Yazılım Sınama Ödev 1\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.Properties.Resources.resources
+D:\Yedeklenecekler\Üni Dosyaları\3.sınıf ödevler\Yazılım Sınama Vize Ödevler\Yazılım Sınama Ödev 1\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.csproj.GenerateResource.cache
+D:\Yedeklenecekler\Üni Dosyaları\3.sınıf ödevler\Yazılım Sınama Vize Ödevler\Yazılım Sınama Ödev 1\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.csproj.CoreCompileInputs.cache
+D:\Yedeklenecekler\Üni Dosyaları\3.sınıf ödevler\Yazılım Sınama Vize Ödevler\Yazılım Sınama Ödev 1\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.exe
+D:\Yedeklenecekler\Üni Dosyaları\3.sınıf ödevler\Yazılım Sınama Vize Ödevler\Yazılım Sınama Ödev 1\TasTopla\TasToplama\TasToplama\obj\Debug\TasToplama.pdb
